@@ -7,5 +7,6 @@ Welcome to the IT Fields Repository! This repository contains a collection of Ma
 <!-- Update the following list with the titles and descriptions of your MD files -->
 
 - [AWS Create Static Website](AWSCreateStaticWebSite.md)
+- [HTML Templates In Flask](HTMLTemplatesInFlask.md)
 
 Feel free to browse the repository, open the relevant MD files, and explore the various IT fields. Happy learning!
